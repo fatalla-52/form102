@@ -11,9 +11,9 @@
 <br><br><hr>
 <label for="address">Address:</label>
 <input type="text" id="address" name="address">
-<br>
+<br><hr>
 <label for="email">Email:</label>
-<input type="email" id="email" name="email" placeholder="name@example.com" autocomplete="off">
+<input type="email" id="email" name="email" placeholder="name@example.com" autocomplete="off"><br>
 <label for="contact no.">Contact No.:</label>
 <input type="text" name="contact no." pattern="[0-9][5-2]-[3-8][4-2]-[0-1][2]">
 <br>
