@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="description" content="This HARNAGEL MILKTEA HOUSE is I name it after my siblings name>
-    <title>HARNAGEL MILTEA HOUSE</title>
+    <title>HARNAGEL MILKTEA HOUSE</title>
 </head>
 <body>
 <label for="message">Message:</label>
 <textarea id="message" name="message" rows="5" cols="40"></textarea>
 <br>
-<img src="https://www.google.com/imgres?q=milk%20tea%20&imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fe55ac8_fb8a498ae9164fd2b37649b298b83285~mv2.png%2Fv1%2Ffill%2Fw_564%2Ch_846%2Cal_c%2Cq_90%2Fe55ac8_fb8a498ae9164fd2b37649b298b83285~mv2.png&imgrefurl=https%3A%2F%2Fwww.fourseasonsdietetics.com%2Fwhat-is-boba-a-guide-to-ordering-guilt-free-milk-tea&docid=oStDWpIsOdpIhM&tbnid=ND7mMaFbrUzfGM&vet=12ahUKEwjfquLimvWOAxUPrlYBHZbYEC0QM3oECBkQAA..i&w=564&h=846&hcb=2&ved=2ahUKEwjfquLimvWOAxUPrlYBHZbYEC0QM3oECBkQAA/milk-tea.jpg" alt="milk tea">
+<img src="https://milk-tea.jpg" alt="milk tea"><br><label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla><p></p>
 
 <br><br><hr>
 <label for="address">Address:</label>
