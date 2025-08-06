@@ -41,7 +41,9 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
    <option value="strawberry">Strawberry</option>
 </select>
 <br><hr>
-<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)">click me!</label>buttom>
-
+<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)">click me!</buttom>
+<br><hr>
+<label for="application no">Application No:</label>
+<input type="text" id="application no" name="application no">
 </body>
 </html>
