@@ -25,6 +25,7 @@
 https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F003%2F362%2F831%2Foriginal%2Fthai-milk-tea-with-bubbles-free-video.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvideo%2F3362831-thai-milk-tea-with-bubbles&docid=sJTXUJ508EYI9M&tbnid=ZhX5-84v3eCNIM&vet=12ahUKEwjL_5D_mfWOAxUEplYBHftEBOAQM3oECBMQAA..i&w=3840&h=2160&hcb=2&itg=1&ved=2ahUKEwjL_5D_mfWOAxUEplYBHftEBOAQM3oECBMQAA
 <fieldset>
 <Legend>Information:</Legend>
+<br>
 <label for="birthday">Birthday:</label>
 <input type="text" id="birthday" name="birthday">
 <br>
