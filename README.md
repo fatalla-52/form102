@@ -11,7 +11,6 @@
 <br>
 <img src="https://www.google.com/imgres?q=milk%20tea%20&imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fe55ac8_fb8a498ae9164fd2b37649b298b83285~mv2.png%2Fv1%2Ffill%2Fw_564%2Ch_846%2Cal_c%2Cq_90%2Fe55ac8_fb8a498ae9164fd2b37649b298b83285~mv2.png&imgrefurl=https%3A%2F%2Fwww.fourseasonsdietetics.com%2Fwhat-is-boba-a-guide-to-ordering-guilt-free-milk-tea&docid=oStDWpIsOdpIhM&tbnid=ND7mMaFbrUzfGM&vet=12ahUKEwjfquLimvWOAxUPrlYBHZbYEC0QM3oECBkQAA..i&w=564&h=846&hcb=2&ved=2ahUKEwjfquLimvWOAxUPrlYBHZbYEC0QM3oECBkQAA/milk-tea.jpg" alt="milk tea">
 
-  
 <br><br><hr>
 <label for="address">Address:</label>
 <input type="text" id="address" name="address">
@@ -35,10 +34,13 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
 <select id="favorites" name="favorites">
    <option value="chocolate">Chocolate</option>
    <option value="cookies and cream">Cookies and Cream</option>
-   <option value="strawberry">Strawberry</option>
    <option value="vanila">Vanilla</option>
+   <option value="strawberry">Strawberry</option>
 </select>
 <br><hr>
+<input type="text" name="address" autocomplete="on"
+<br><hr>
+<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)">click me!</label>buttom>
 
    
 </html>
