@@ -21,5 +21,9 @@
   <fieldset>
     <Legend>Information</Legend>
 <label for="birthday">Birthday</label>
+<input type="text" id="birthday" name="birthday">
+<label for="birthplace>Birthplace</label>
+<input type="text" id="birthplace" name="birthplace">
+    <br>
 <input type="text" id="birthday" name="birthday"
 </html>
