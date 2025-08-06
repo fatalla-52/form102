@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
   <meta charset="UTF-8">
-  <meta name="description" content="This HARNAGEL MILKTEA HOUSE is I name it after my siblings name>
+<meta name="description" content="This HARNAGEL MILKTEA HOUSE is named after my siblings">
     <title>HARNAGEL MILKTEA HOUSE</title>
 </head>
 <body>
