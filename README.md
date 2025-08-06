@@ -27,6 +27,7 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
 <Legend>Information</Legend>
 <label for="birthday">Birthday</label>
 <input type="text" id="birthday" name="birthday">
+<br>
 <label for="birthplace">Birthplace</label>
 <input type="text" id="birthplace" name="birthplace">
 </fieldset>
