@@ -27,8 +27,9 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
     <Legend>Information</Legend>
 <label for="birthday">Birthday</label>
 <input type="text" id="birthday" name="birthday">
-<label for="birthplace>Birthplace</label>
+<label for="birthplace">Birthplace</label>
 <input type="text" id="birthplace" name="birthplace">
+<br>
 </fieldset>
 <label for="favorites">Favorites:</label>
 <select id="favorites" name="favorites">
@@ -37,8 +38,6 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
    <option value="vanila">Vanilla</option>
    <option value="strawberry">Strawberry</option>
 </select>
-<br><hr>
-<input type="text" name="address" autocomplete="on"
 <br><hr>
 <buttom type="buttom oneclic="alert('Wellcome to Harnagel!)">click me!</label>buttom>
 
