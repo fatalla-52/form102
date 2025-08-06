@@ -7,7 +7,7 @@
 </head>
 <body>
 <label for="message">Message:</label>
-<textarea id="message" name="message" rows="5" cols="40"></head>textarea>
+<textarea id="message" name="message" rows="5" cols="40"></textarea>
 <br><hr>
 <label for="address">Address:</label>
 <input type="text" id="address" name="address"
