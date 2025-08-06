@@ -10,7 +10,7 @@
 <textarea id="message" name="message" rows="5" cols="40"></textarea>
 <br><br><hr>
 <label for="address">Address:</label>
-<input type="text" id="address" name="address"
+<input type="text" id="address" name="address">
 <br>
 <label for="email">Email:</label>
 <input type="email" id="email" name="email" placeholder="name@example.com" autocomplete="off">
