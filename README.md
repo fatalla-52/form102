@@ -13,11 +13,13 @@
 <input type="text" id="address" name="address"
 <br>
 <label for="email">Email:</label>
-<input type="email" id="email" name="email" placeholder="name@example.com" autocomplete="on">
+<input type="email" id="email" name="email" placeholder="name@example.com" autocomplete="off">
 <br><hr>
-<input type="text" name="ccontact no." pattern="[0-9][5-2]-[3-8][4-2]-[0-1][2]">
+<input type="text" name="contact no." pattern="[0-9][5-2]-[3-8][4-2]-[0-1][2]">
 <br><hr>
-<input type="nubmber" name="age" min="20" max="30"
-</body
- <Legend>Information</Legen>
+<input type="number" name="age" min="18" max="55">
+  <fieldset>
+    <Legend>Information</Legend>
+<label for="birthday">Birthday</label>
+<input type="text" id="birthday" name="birthday"
 </html>
