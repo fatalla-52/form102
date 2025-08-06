@@ -25,7 +25,7 @@
 <br><hr>
 https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F003%2F362%2F831%2Foriginal%2Fthai-milk-tea-with-bubbles-free-video.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvideo%2F3362831-thai-milk-tea-with-bubbles&docid=sJTXUJ508EYI9M&tbnid=ZhX5-84v3eCNIM&vet=12ahUKEwjL_5D_mfWOAxUEplYBHftEBOAQM3oECBMQAA..i&w=3840&h=2160&hcb=2&itg=1&ved=2ahUKEwjL_5D_mfWOAxUEplYBHftEBOAQM3oECBMQAA
 <fieldset>
-<Legend>Information</Legend>
+<Legend>INFORMATION</Legend>
 <br>
 <label for="birthday">Birthday:</label>
 <input type="text" id="birthday" name="birthday">
@@ -33,7 +33,7 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
 <label for="birthplace">Birthplace:</label>
 <input type="text" id="birthplace" name="birthplace">
 </fieldset>
-<br>
+<br><br><hr>
 <label for="favorites">Favorites:</label>
 <select id="favorites" name="favorites">
    <option value="chocolate">Chocolate</option>
@@ -42,7 +42,7 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
    <option value="strawberry">Strawberry</option>
 </select>
 <br><hr>
-<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)">click me!</buttom>
+<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)"></buttom>
 <br><hr>
 <label for="application no">Application No:</label>
 <input type="text" id="application no" name="application no">
