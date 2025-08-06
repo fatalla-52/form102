@@ -9,7 +9,7 @@
 <label for="message">Message:</label>
 <textarea id="message" name="message" rows="5" cols="40"></textarea>
 <br>
-https://www.google.com/imgres?q=milk%20tea%20&imgurl=https%3A%2F%2Fricelifefoodie.com%2Fwp-content%2Fuploads%2F2024%2F10%2Fice-cold-Hokkaido-Milk-Tea-with-boba-.jpg&imgrefurl=https%3A%2F%2Fricelifefoodie.com%2Fhokkaido-milk-tea-recipe%2F&docid=zpMvsqmNcUs45M&tbnid=24o3a9v_4VnXRM&vet=12ahUKEwjfquLimvWOAxUPrlYBHZbYEC0QM3oECBgQAA..i&w=900&h=1200&hcb=2&ved=2ahUKEwjfquLimvWOAxUPrlYBHZbYEC0QM3oECBgQAA
+<img src="https"https://milk tea.jpg" alt="milk tea">
   
 <br><br><hr>
 <label for="address">Address:</label>
