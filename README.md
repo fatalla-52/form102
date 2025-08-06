@@ -9,8 +9,7 @@
 <label for="message">Message:</label>
 <textarea id="message" name="message" rows="5" cols="40"></textarea>
 <br>
-<img src="https://milk-tea.jpg" alt="milk tea"><br><label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla><br><hr>
-                                                                                    <p></p>
+<img src="https://milk-tea.jpg" alt="milk tea"><br><label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla><br><hr><p>Harnagel is what</p>
 
 <br><br><hr>
 <label for="address">Address:</label>
@@ -42,7 +41,7 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
    <option value="strawberry">Strawberry</option>
 </select>
 <br><hr>
-<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)"></buttom>
+<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)">Click Me!</buttom>
 <br><hr>
 <label for="application no">Application No:</label>
 <input type="text" id="application no" name="application no">
