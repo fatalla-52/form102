@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
   <meta charset="UTF-8">
   <meta name="description" content="This HARNAGEL MILKTEA HOUSE is I name it after my siblings name>
     <title>HARNAGEL MILKTEA HOUSE</title>
@@ -9,8 +9,7 @@
 <label for="message">Message:</label>
 <textarea id="message" name="message" rows="5" cols="40"></textarea>
 <br>
-<img src="https://milk-tea.jpg" alt="milk tea"><br><label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla><br><hr>
-<p>The Harnagel name was named after our name me and my siblings, har means Harly, na means Hanna, and gel means Angelie this was created by my mother</p>
+<img src="https://milk-tea.jpg" alt="milk tea"> <br> <label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla> <br><hr> <p>The Harnagel name was named after our name me and my siblings, har means Harly, na means Hanna(grace), and gel means Angeliethe messenger of god this was created by my mother. Our milk tea have a combines tea with milk and often features added sweeteners with tapioca pearls our milk tea was sweet as the love between relationships even he/she's not with you, you can still feel the sweetness of love</p>
 
 <br><br><hr>
 <label for="address">Address:</label>
@@ -48,3 +47,4 @@ https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.v
 <input type="text" id="application no" name="application no">
 </body>
 </html>
+
