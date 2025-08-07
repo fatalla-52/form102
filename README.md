@@ -11,40 +11,34 @@
 <br>
 <img src="https://milk-tea.jpg" alt="milk tea"> <br> <label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla> <br><hr> <p>The Harnagel name was named after our name me and my siblings, har means Harly, na means Hanna(grace), and gel means Angeliethe messenger of god this was created by my mother. Our milk tea have a combines tea with milk and often features added sweeteners with tapioca pearls our milk tea was sweet as the love between relationships even he/she's not with you, you can still feel the sweetness of love</p>
 
-<br><br><hr>
-<label for="address">Address:</label>
-<input type="text" id="address" name="address">
-<br><hr>
-<label for="email">Email:</label>
-<input type="email" id="email" name="email" placeholder="name@example.com" autocomplete="off"><br>
-<label for="contact no.">Contact No.:</label>
-<input type="text" name="contact no." pattern="[0-9][5-2]-[3-8][4-2]-[0-1][2]">
-<br>
-<input type="number" name="age" min="18" max="55">
-<br><hr>
-https://www.google.com/imgres?q=milk%20tea%20video&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F003%2F362%2F831%2Foriginal%2Fthai-milk-tea-with-bubbles-free-video.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Fvideo%2F3362831-thai-milk-tea-with-bubbles&docid=sJTXUJ508EYI9M&tbnid=ZhX5-84v3eCNIM&vet=12ahUKEwjL_5D_mfWOAxUEplYBHftEBOAQM3oECBMQAA..i&w=3840&h=2160&hcb=2&itg=1&ved=2ahUKEwjL_5D_mfWOAxUEplYBHftEBOAQM3oECBMQAA
-<fieldset>
-<Legend>INFORMATION</Legend>
-<br>
-<label for="birthday">Birthday:</label>
-<input type="text" id="birthday" name="birthday">
-<br>
-<label for="birthplace">Birthplace:</label>
-<input type="text" id="birthplace" name="birthplace">
-</fieldset>
-<br><br><hr>
-<label for="favorites">Favorites:</label>
-<select id="favorites" name="favorites">
-   <option value="chocolate">Chocolate</option>
-   <option value="cookies and cream">Cookies and Cream</option>
-   <option value="vanila">Vanilla</option>
-   <option value="strawberry">Strawberry</option>
-</select>
-<br><hr>
-<buttom type="buttom oneclic="alert('Wellcome to Harnagel!)">Click Me!</buttom>
-<br><hr>
-<label for="application no">Application No:</label>
-<input type="text" id="application no" name="application no">
-</body>
-</html>
+<form>
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required><br>
 
+  <label for="address">Address:</label>
+  <input type="text" id="address" name="address"><br>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email"><br>
+
+  <label for="contact">Contact Number:</label>
+  <input type="tel" id="contact" name="contact"><br>
+
+  <label for="age">Age:</label>
+  <input type="number" id="age" name="age"><br>
+
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday"><br>
+
+  <label for="birthplace">Birthplace:</label>
+  <input type="text" id="birthplace" name="birthplace"><br>
+
+  <label for="milktea">Favorite Milktea:</label>
+  <select id="milktea" name="milktea">
+    <option value="classic">Classic</option>
+    <option value="wintermelon">Wintermelon</option>
+    <option value="okinawa">Okinawa</option>
+  </select><br>
+
+  <button type="submit">Submit</button>
+</form>
