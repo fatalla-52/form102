@@ -7,9 +7,11 @@
 </head>
 <body>
 <label for="message">Message:</label>
-<textarea id="message" name="message" rows="5" cols="40"></textarea>
+<textarea id="message" name="message" rows="10" cols="50"></textarea>
 <br>
-<img src="https://Milk-Tea.jpg" alt="milk tea"><br><label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla required><br><hr> <p>The Harnagel named after our name me and my siblings, har means Harly(hare's meadow), na means Hanna(grace), and gel means Angelie(the messenger of god)this was created by my mother. Our milk tea have a combines tea with milk and often features added sweeteners with tapioca pearls our milk tea was sweet as the love between relationships even he/she's not with you, you can still feel the sweetness of love</p>
+<img src="https://Milk-Tea.jpg" alt="milk tea"><br>
+<label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla required><br><hr>
+<p>The Harnagel named after our name me and my siblings, har means Harly(hare's meadow), na means Hanna(grace), and gel means Angelie(the messenger of god)this was created by my mother. Our milk tea have a combines tea with milk and often features added sweeteners with tapioca pearls our milk tea was sweet as the love between relationships even he/she's not with you, you can still feel the sweetness of love</p>
 <br><hr>
   <label for="address">Address:</label>
   <input type="text" id="address" name="address">
