@@ -27,7 +27,7 @@
   <br><hr>
   <fielset>
   <label for="birthday">Birthday:</label>
-  <input type="date" id="birthday" name="birthday">
+  <input type="birthdate" id="birthday" name="birthday">
   <br>
   <label for="birthplace">Birthplace:</label>
   <input type="text" id="birthplace" name="birthplace">
