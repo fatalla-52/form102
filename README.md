@@ -13,7 +13,7 @@
 <br><hr>
   <label for="address">Address:</label>
   <input type="text" id="address" name="address">
-  <br><hr>
+  <br><br>
   <label for="email">Email:</label>
   <input type="email" id="email" name="email">
   <br>
