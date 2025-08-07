@@ -10,8 +10,7 @@
 <textarea id="message" name="message" rows="10" cols="50"></textarea>
 <br>
 <img src="https://www.google.com/imgres?q=milk%20tea&imgurl=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fbeverage%2FBubble-Milk-Tea.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&imgrefurl=https%3A%2F%2Fwww.slurrp.com%2Frecipes%2Fbubble-milk-tea-1612539895&docid=-KxhLk1Lx0MSiM&tbnid=eTg3qaymNtfV4M&vet=12ahUKEwjqzYX52PeOAxVbSGwGHUgVNZsQM3oECBwQAA..i&w=675&h=675&hcb=2&ved=2ahUKEwjqzYX52PeOAxVbSGwGHUgVNZsQM3oECBwQAA//Milk-Tea.jpg" alt="milk tea"><br>
-<label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla"><br><hr>
-<p>The Harnagel named after our name me and my siblings, har means Harly(hare's meadow), na means Hanna(grace), and gel means Angelie(the messenger of god)this was created by my mother. Our milk tea have a combines tea with milk and often features added sweeteners with tapioca pearls our milk tea was sweet as the love between relationships even he/she's not with you, you can still feel the sweetness of love</p>
+<label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla"><br><hr><p>The Harnagel named after our name me and my siblings, har means Harly(hare's meadow), na means Hanna(grace), and gel means Angelie(the messenger of god)this was created by my mother. Our milk tea have a combines tea with milk and often features added sweeteners with tapioca pearls our milk tea was sweet as the love between relationships even he/she's not with you, you can still feel the sweetness of love</p>
 <br><hr>
   <label for="address">Address:</label>
   <input type="text" id="address" name="address">
