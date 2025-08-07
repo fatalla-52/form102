@@ -13,10 +13,10 @@
 <br><hr>
   <label for="address">Address:</label>
   <input type="text" id="address" name="address">
-  <br><br>
+  <br><hr>
   <label for="email">Email:</label>
   <input type="email" id="email" name="email">
-  <br>
+  <br><hr>
   <label for="contact">Contact Number:</label>
   <input type="tel" id="contact" name="contact">
   <br><hr>
