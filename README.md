@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
   <meta charset="UTF-8">
-<meta name="description" content="This HARNAGEL MILKTEA HOUSE is named after my siblings">
+  <meta name="description" content="This HARNAGEL MILKTEA HOUSE is named after my siblings">
     <title>HARNAGEL MILKTEA HOUSE APPLICATION</title>
 </head>
 <body>
