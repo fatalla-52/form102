@@ -33,7 +33,7 @@
   <video controls="cotrols" widht="300" height="250"
     <source src="https://www.youtube.com/watch?v=5T8Vr9wpWnE/Milktea-Ad.mo4" type="video/mp4">
   </video>
-  <br><hr>
+  <br><br><hr>
   <fielset>
   <label for="birthday">Birthday:</label>
   <input type="birthdate" id="birthday" name="birthday">
