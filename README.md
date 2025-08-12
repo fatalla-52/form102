@@ -6,7 +6,8 @@
     <title>HARNAGEL MILKTEA HOUSE APPLICATION</title>
 </head>
 <body>
-<img src="https://tinyurl.com/42bkdduh//Milk-Tea.jpg" alt="milk tea" widht="100" hieght="100"><br>
+<img src="https://tinyurl.com/42bkdduh//Milk-Tea.jpg" alt="milk tea" widht="100" hieght="100">
+  <br>
 <table>
   <tr>
   <label for="name">Name:</label><input type="text" id="name" name="name" value="Angelie T. Fatalla">
