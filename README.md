@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+  <button type="buttom" onclick="alert('Welcome to Harnagel')">Submit</button><!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -24,7 +25,7 @@
   <input type="email" id="email" name="email">
   <br><hr>
   <label for="contact">Contact Number:</label>
-  <input type="tel" id="contact" name="contact">
+  <input type="text" id="contact number" name="contact number pattern="[0-9]{5}-[2-3]{8}-[4-2]{2}">
   <br><hr>
   <label for="age">Age:</label>
   <input type="number" id="age" name="age">
@@ -48,7 +49,8 @@
     <option value="vanila">Vanila</option>
     <option value="strawberry">Strawberry</option>
   </select><br>
-
-  <button type="buttom" onclick="alert('Welcome to Harnagel')">Submit</button>
+  <button type="button" oneclick="alert("welcome to Harnagel!")>Click me!</button>
+  <label for="application no:">Application No:</label>
+  <input type="text" id="application no:" name="application no:" value="09523842256" readyonly>
 </body>
 </html>
