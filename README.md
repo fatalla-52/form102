@@ -6,7 +6,7 @@
     <title>HARNAGEL MILKTEA HOUSE APPLICATION</title>
 </head>
 <body>
-<img src="https://tinyurl.com/42bkdduh//Milk-Tea.jpg" alt="milk tea" widht="100" hieght="100">
+<img src="https://Milk-Tea.jpg" alt="milk tea" widht="100" hieght="100">
   <br>
 <table>
   <tr>
